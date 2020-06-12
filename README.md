@@ -3,7 +3,7 @@ Using various dataset to test some papers
 
 
 # Using Flavia dataset:
-dataset to download -> https://mega.nz/file/9cY2BA5a
+dataset to download -> https://mega.nz/file/9cY2BA5a#zRmjJHOLzFn6SET6sQFebFdOPvCzHvw98Vq39qzWfvw
 
 
 # Jupyter notebooks:
